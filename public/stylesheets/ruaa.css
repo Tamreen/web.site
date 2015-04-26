@@ -1,0 +1,46 @@
+
+*{
+	margin: 0; padding: 0;
+}
+
+html{
+	direction: rtl;
+}
+
+.cotainer{
+	padding: 20px;
+	text-align: center;
+}
+
+.button{
+	display: inline-block;
+	padding: 10px; color: #fff;
+	background-color: #000;
+	text-decoration: none;
+	margin: 2px; width: 220px;
+}
+
+.logo, .intro, .download, .more{
+	padding: 20px;
+}
+
+.more{
+	margin-top: 20px;
+	background-color: #f1f1f1;
+}
+
+.more-section{
+	margin-bottom: 20px;
+}
+
+.more-section h3{
+	padding: 10px; font-size: 18px;
+	font-weight: bold; color: #666;
+}
+
+.more-section ul{
+	list-style-type: none;
+}
+
+.more-section ul li{
+}

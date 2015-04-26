@@ -1,0 +1,9 @@
+{
+  "name": "tamreen",
+  "description": "The introductory website for Tamreen.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "nconf": "*"
+  }
+}
