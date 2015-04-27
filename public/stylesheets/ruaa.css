@@ -1,6 +1,9 @@
 
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+
 *{
 	margin: 0; padding: 0;
+	font-family: 'Droid Arabic Naskh', serif;
 }
 
 html{
@@ -17,7 +20,7 @@ html{
 	padding: 10px; color: #fff;
 	background-color: #000;
 	text-decoration: none;
-	margin: 2px; width: 220px;
+	margin: 2px; width: 250px;
 }
 
 .logo, .intro, .download, .more{
@@ -42,5 +45,7 @@ html{
 	list-style-type: none;
 }
 
-.more-section ul li{
+.more-section ul li:before{
+	content: '- ';
+	color: #aaa;
 }
