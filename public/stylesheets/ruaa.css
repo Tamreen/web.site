@@ -3,7 +3,7 @@
 
 *{
 	margin: 0; padding: 0;
-	font-family: 'Droid Arabic Naskh', serif;
+	font-family: 'Droid Arabic Naskh', arial, serif;
 	font-size: 14px;
 }
 
@@ -49,4 +49,12 @@ html{
 .more-section ul li:before{
 	content: '- ';
 	color: #aaa;
+}
+
+.contact{
+	margin-top: 20px;
+}
+
+.contact a{
+	color: #666;
 }
