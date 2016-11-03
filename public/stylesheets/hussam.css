@@ -122,7 +122,7 @@ footer a{
 @media only screen and (max-device-width: 480px){
 
 	body{
-		background-color: #8962ed;
+		background-color: #000;
 	}
 
 	.hero{
@@ -130,7 +130,7 @@ footer a{
 	}
 
 	.hero .container h1{
-		padding-top: 0; text-align: center;
+		padding-top: 40%; text-align: center;
 		margin-bottom: 20px;
 	}
 
